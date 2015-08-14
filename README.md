@@ -8,6 +8,6 @@ See my [article](https://www.linkedin.com/pulse/machine-learning-diabetic-retino
 
 Requires:
 * [Theano](http://deeplearning.net/software/theano/)
-* [Keras](https://github.com/fchollet/keras), [forum link](https://www.kaggle.com/c/otto-group-product-classification-challenge/forums/t/13632/achieve-0-48-in-5-min-with-a-deep-net-feat-batchnorm-prelu/74125#post74125)
+* [Keras](https://github.com/fchollet/keras)
 
 
